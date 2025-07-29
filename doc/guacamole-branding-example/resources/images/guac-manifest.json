@@ -1,7 +1,7 @@
 {
-    "guacamoleVersion" : "1.6.0",
-    "name"             : "Inovatech Cloud Branding",
-    "namespace"        : "inovatech-cloud-guacamole",
+    "guacamoleVersion" : "*",
+    "name"             : "Guacamole Branding Example",
+    "namespace"        : "guacamole-branding-example",
     
     "css" : [
         "css/0-font-raleway.css",
